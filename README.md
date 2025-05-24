@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Data Analyst</b> | <b>Computer Engineer</b> | <b>Frontend Developer</b> | <b>Graphic Designer</b>
+  <b>Data Analyst</b> | <b>Computer Engineer</b> | <b>Full-Stack Developer</b> | <b>Graphic Designer</b>
 </p>
 
 ---
