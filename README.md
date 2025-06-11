@@ -1,7 +1,7 @@
 ![Eng Alinjavwa Sichela](https://github.com/user-attachments/assets/282963b5-8434-41c2-8683-6856d26ffe3a)<h1 align="center"> Hi, I'm Alinjavwa Sichela 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" alt="Data Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="20" alt="Data Animation"/>
 </p>
 
 <p align="center">
