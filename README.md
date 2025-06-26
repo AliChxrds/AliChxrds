@@ -1,4 +1,4 @@
-![Eng Alinjavwa Sichela](https://github.com/user-attachments/assets/282963b5-8434-41c2-8683-6856d26ffe3a)<h1 align="center"> Hi, I'm Alinjavwa Sichela 👋</h1>
+<h1> Hi, I'm Alinjavwa Sichela 👋</h1>
 
 <p align="center">
 </p>
@@ -41,10 +41,8 @@
 
 | Project | Description | Tools Used | Preview |
 |--------|-------------|------------|---------|
-| **Supply Chain Dashboard** | An interactive dashboard analyzing inventory trends. | Power BI, Excel | ![Dashboard](images/supply_dashboard.png) |
-| **Portfolio Website** | Personal website built using responsive design principles. | HTML, CSS, JS | [Live Site](https://your-website.com) |
-| **Python Data Cleaning Script** | Automated cleaning and formatting of CSVs. | Python, Pandas | [GitHub Repo](https://github.com/yourusername/project-name) |
-| **Graphic Portfolio** | Visual designs and UI mockups. | Canva, Adobe XD | ![Design](images/ui_mockup.png) |
+| **Portfolio Website** | Personal website built using responsive design principles. | HTML, CSS, JS | [EngSichela.com](https://alichxrds.github.io/Alinjavwa-Portfolio/) |
+
 
 ---
 
@@ -52,8 +50,7 @@
 
 - 📄 [Download Resume]([Alinjavwa Sichela Resume.pdf](https://github.com/user-attachments/files/19820678/Alinjavwa.Sichela.Resume.pdf)
 )
-- 🖼️ [Design Portfolio PDF](files/design-portfolio.pdf)
-- 📊 [BI Report Demo](files/bi-sample.pbix)
+
 
 ---
 
