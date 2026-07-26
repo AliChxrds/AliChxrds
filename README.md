@@ -41,7 +41,7 @@
 
 | Project | Description | Tools Used | Preview |
 |--------|-------------|------------|---------|
-| **Project website Website** | Website built using responsive design principles. | HTML, CSS, JS | [EcBooksoutsourcing.com](https://ecbookoutsourcing.netlify.app/)) |
+| **Project: Client Website** | Website built using responsive design principles. | HTML, CSS, JS | [EcBooksoutsourcing.com](https://ecbookoutsourcing.netlify.app/) |
 
 
 ---
