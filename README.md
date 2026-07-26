@@ -157,7 +157,7 @@ I build software, analyze data, and create solutions that solve real-world probl
 
 📥 **Download My Resume**
 
-YOUR_RESUME_LINK
+Alinjavwa Sichela -CV.pdf
 
 ---
 
