@@ -41,7 +41,7 @@
 
 | Project | Description | Tools Used | Preview |
 |--------|-------------|------------|---------|
-| **Portfolio Website** | Personal website built using responsive design principles. | HTML, CSS, JS | [EngSichela.com](https://alichxrds.github.io/Alinjavwa-Portfolio/) |
+| **Project website Website** | Website built using responsive design principles. | HTML, CSS, JS | [EcBooksoutsourcing.com]([https://alichxrds.github.io/Alinjavwa-Portfolio/](https://ecbookoutsourcing.netlify.app/)) |
 
 ![Alinjavwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alinjavwa-Sichela&show_icons=true&theme=tokyonight)
 ---
