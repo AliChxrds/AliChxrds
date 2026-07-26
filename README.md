@@ -11,14 +11,14 @@
 
 ### About Me
 
-🎓 I'm a Computer Engineering graduate and a passionate **Data Analyst** with strong skills in:
+🎓 I'm a Computer Engineering graduate and a passionate **Software Developer and Data Analyst** with strong skills in:
 
 - 📊 **SQL**, **Excel**, **Power BI**
 - 🐍 **Python** (Data Analysis & Automation)
-- 🌐 **Frontend Web Dev**: HTML, CSS, JavaScript, React
-- 🎨 **Graphic Design**: Canva, Adobe XD, Figma
+- 🌐 **Dev**: HTML, CSS, JavaScript, React, Node.js, and Express
+- 🎨 **Graphic Design**: Canva, Adobe Suite, Figma
 
-🔭 Currently completing a Learnership focused on Supply Chain Data.
+🔭 Currently a Freelancer and continuously learning.
 
 ---
 
@@ -43,7 +43,7 @@
 |--------|-------------|------------|---------|
 | **Project website Website** | Website built using responsive design principles. | HTML, CSS, JS | [EcBooksoutsourcing.com](https://ecbookoutsourcing.netlify.app/)) |
 
-![Alinjavwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alinjavwa-Sichela&show_icons=true&theme=tokyonight)
+
 ---
 
 ### 📁 Downloads
@@ -57,7 +57,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alinjavwasichela"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
