@@ -155,9 +155,7 @@ I build software, analyze data, and create solutions that solve real-world probl
 
 # 📄 Resume
 
-📥 **Download My Resume**
-
-Alinjavwa Sichela -CV.pdf
+📥 [**Download My Resume**](https://github.com/AliChxrds/AliChxrds/raw/main/Alinjavwa%20Sichela%20-CV.pdf)
 
 ---
 
@@ -169,13 +167,13 @@ Alinjavwa Sichela -CV.pdf
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:alinjavwasichela@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.com">
+<!-- <a href="https://your-portfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+</a> -->
 
 </p>
 
