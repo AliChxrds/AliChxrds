@@ -22,7 +22,11 @@ I build software, analyze data, and create solutions that solve real-world probl
 
 #  About Me
 
-🎓 Computer Engineering Graduate
+🎓 Bachelor of Computer Engineering, Copperbelt University (2024)
+
+📍 Lusaka, Zambia
+
+💼 Technical Support Officer at the Electoral Commission of Zambia
 
 📊 Passionate about Data Analytics, Business Intelligence and Software Development
 
@@ -120,18 +124,18 @@ I build software, analyze data, and create solutions that solve real-world probl
 
 ---
 
-#  Featured Projects
+# Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🌐 **EcBook Outsourcing Website** | Responsive business website | HTML, CSS, JavaScript |
-| 📊 **Power BI Dashboard** | Interactive dashboards and business reporting | Power BI, SQL |
-| 🐍 **Python Data Analysis** | Data cleaning and automation scripts | Python, Pandas |
-| 💻 **React Projects** | Frontend applications | React, JavaScript |
+| Project | What you can inspect | Technologies |
+|---------|---------------------|--------------|
+| [Four Chords ERP](https://github.com/AliChxrds/four-chords-erp) | Customer API, parameterised queries, filtering, pagination, and database migrations. Development prototype. | JavaScript, Node.js, Express, PostgreSQL |
+| [Personal Portfolio](https://github.com/AliChxrds/alinjavwasichela) | Website source presenting my background and technical interests. | HTML, CSS, JavaScript |
 
-### Live Website
+## Applied analytics experience
 
-🔗 https://ecbookoutsourcing.netlify.app/
+During internships at FQM Kansanshi and FQM Trident, I worked on Power BI safety reporting, an Excel VBA baseline risk-assessment tool, inventory analysis, and data quality. These describe workplace experience; public case studies and code for that work are not currently included here.
+
+My interests include Python automation, SQL analysis, business intelligence, and AI. I am developing the public evidence for these skills and will link completed examples as they become available.
 
 ---
 
@@ -184,3 +188,4 @@ I build software, analyze data, and create solutions that solve real-world probl
  "Turning data into decisions and ideas into impactful software."
 
 </h3>
+
